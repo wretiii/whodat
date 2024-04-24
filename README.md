@@ -1,5 +1,5 @@
 # whodat
-Script to perform a whois search against a file of domain names to return the registrant name and to return the IP address using fping.
+Perform a whois search against a file of domain names to return the registrant name and to return the IP address using fping.
 ### Prerequisite:
 ```
 sudo apt install fping
